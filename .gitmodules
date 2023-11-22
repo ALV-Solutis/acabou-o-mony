@@ -1,0 +1,18 @@
+[submodule "acabou-o-mony-payment"]
+	path = acabou-o-mony-payment
+	url = git@github.com:ALV-Solutis/acabou-o-mony-payment.git
+[submodule "acabou-o-mony-account"]
+	path = acabou-o-mony-account
+	url = git@github.com:ALV-Solutis/acabou-o-mony-account.git
+[submodule "acabou-o-mony-security"]
+	path = acabou-o-mony-security
+	url = git@github.com:ALV-Solutis/acabou-o-mony-security.git
+[submodule "acabou-o-mony-gateway"]
+	path = acabou-o-mony-gateway
+	url = git@github.com:ALV-Solutis/acabou-o-mony-gateway.git
+[submodule "acabou-o-mony-email"]
+	path = acabou-o-mony-email
+	url = git@github.com:ALV-Solutis/acabou-o-mony-email.git
+[submodule "acabou-o-mony-server"]
+	path = acabou-o-mony-server
+	url = git@github.com:ALV-Solutis/acabou-o-mony-server.git
